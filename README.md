@@ -3,7 +3,9 @@
 
 #### 👋 Hi there, I'am Mariana Alberto.
 
-✨ I'm currently finishing my course in programming ✨
+✨ I'm currently finishing my course in programming
+
+🔭 I’m currently working on my final course project
 
 
 
