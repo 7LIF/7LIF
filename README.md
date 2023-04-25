@@ -33,7 +33,9 @@
  <h2 align="left">✨ Tools & IDE's ✨</h2>
        <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/> </a> 
        <a href="https://www.anaconda.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original.svg" alt="Anaconda" width="30" height="30"/> </a>
-       <div style="background-color: white; display: inline-block; padding: 10px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="30" height="30" style="background-color: white;"/></div>
+<div style="background-color: white; display: inline-block; padding: 10px; opacity: 0.9;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="30" height="30" style="background-color: white;"/>
+</div>
 
 
 
