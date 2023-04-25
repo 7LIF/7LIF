@@ -1,6 +1,6 @@
-<h2 align="left">Know me</h2>
+<h2 align="left">✨ Know me ✨</h2>
 
-#### Hi there 👋
+#### Hi there, I'am Mariana Alberto 👋
 
 ✨ I'm currently finishing my course in programming ✨
 
