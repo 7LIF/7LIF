@@ -7,7 +7,7 @@
 
 🔭 I’m currently working on my final course project
 
-📄 Know about my experiences [linkedin](https://www.linkedin.com/in/mariana-alberto/)
+📄 Know about my experiences on my [linkedin](https://www.linkedin.com/in/mariana-alberto/)
 
  <p><div align="center">
   <a href="https://github.com/7LIF">
