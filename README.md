@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+
+
 ✨ I'm currently finishing my course in programming ✨
 
 
@@ -11,14 +13,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=7LIF&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
- 
-while(alive){ <br/>
-     eat(); <br/>
-     sleep(); <br/>
-     code(); <br/>
-     repeat(); <br/>
-} 
-     
      
      
      
