@@ -1,6 +1,6 @@
-<h2 align="left">Hi there 👋</h3>
+<h2 align="left"></h3>
 
-
+## Hi there 👋
 
 ✨ I'm currently finishing my course in programming ✨
 
