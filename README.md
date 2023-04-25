@@ -3,14 +3,6 @@
 ✨ I'm currently finishing my course in programming ✨
 
 
-while(alive){
-     eat();
-     sleep();
-     code();
-     repeat();
-}
-
-
 
  <div>
   <a href="https://github.com/7LIF">
@@ -20,6 +12,16 @@ while(alive){
 </div>
 
  
+while(alive){ <br/>
+     eat(); <br/>
+     sleep(); <br/>
+     code(); <br/>
+     repeat(); <br/>
+} 
+     
+     
+     
+     
 <!--
 **7LIF/7LIF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
