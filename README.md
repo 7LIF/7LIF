@@ -1,4 +1,4 @@
-<h3 align="left">✨ Know me ✨</h3>
+<h2 align="left">✨ Know me ✨</h2>
 
 
 #### 👋 Hi there, I'am Mariana Alberto.
