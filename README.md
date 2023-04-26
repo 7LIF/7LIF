@@ -47,7 +47,7 @@
         <a href="" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Visual Studio Code" height="30"/> </a>
         <a href="" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" height="30"/> </a>
         <a href="" target="_blank" rel="noreferrer"> <img src="https://avatars0.githubusercontent.com/u/1284937?v=3&s=400" alt="Spider" height="30"/> </a>
-         <a href="" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/69/Notepad%2B%2B_Logo.svg" alt="NOTEPAD++" height="30"/> </a>
+         <a href="" target="_blank" rel="noreferrer"> <img src="https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/9c0bcfdd-ba87-4848-b326-a26edfdbebf8.png?ixlib=react-9.0.3&ch=Width%2CDPR&auto=format&w=4742" alt="NOTEPAD++" height="30"/> </a>
         <a href="" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Xamarin-3498DB?style=for-the-badge&logo=xamarin&logoColor=white" alt="Xamarin" height="30"/> </a>
         <a href="" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="Microsoft SQL Server" height="30"/> </a>
         <a href="https://www.notion.so/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SOLITE" height="30"/> </a>
