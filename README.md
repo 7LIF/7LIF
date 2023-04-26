@@ -7,7 +7,8 @@
 
 🔭 I’m currently working on my final course project
 
-📄 Know about my experiences on my <a href="https://www.linkedin.com/in/mariana-alberto/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="22"/> </a>
+
+<a href="https://www.linkedin.com/in/mariana-alberto/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="22"/> </a>
 
 
 
@@ -31,7 +32,7 @@
 <summary><h2 align="left"> Frameworks </h2></summary>
        <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="30" height="30"/> </a>
        <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="30" height="30"/> </a>
-       <a href="https://flask.palletsprojects.com/en/2.3.x/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="30" height="30" background-color: #ffffff /> </a>
+       <a href="https://flask.palletsprojects.com/en/2.3.x/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" width="30" height="30" background-color: #ffffff /> </a>
  </details>
 
  
