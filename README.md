@@ -8,11 +8,10 @@
 🔭 I’m currently working on my final course project
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=7LIF&label=Profile%20views&color=0e75b6&style=flat" alt="7LIF"/> </p>
-
-
+<p align="left"> 
+<img src="https://komarev.com/ghpvc/?username=7LIF&label=Profile%20views&color=0e75b6&style=flat" alt="7LIF"/> 
 <a href="https://www.linkedin.com/in/mariana-alberto/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="22"/> </a>
-
+</p>
 
 
  <br/><p><div align="center">
