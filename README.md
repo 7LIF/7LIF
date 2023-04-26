@@ -47,12 +47,13 @@
         <a href="" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Visual Studio Code" height="30"/> </a>
         <a href="" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" height="30"/> </a>
         <a href="" target="_blank" rel="noreferrer"> <img src="https://avatars0.githubusercontent.com/u/1284937?v=3&s=400" alt="Spider" height="30"/> </a>
-         <a href="" target="_blank" rel="noreferrer"> <img src="https://digital.com/wp-content/uploads/Notepad-200px.png?x92556" alt="NOTEPAD++" height="30"/> </a>
-        <a href="" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xamarin/xamarin-original.svg" alt="Xamarin" height="30"/> </a>
-        <a href="" target="_blank" rel="noreferrer"> <img src="https://logos.fandom.com/wiki/Microsoft_SQL_Server?file=SQLServer.png" alt="Microsoft SQL Server" height="30"/> </a>
-        <a href="https://www.notion.so/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SOLITE" height="30"/> </a>
-         <a href="" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" height="30"/> </a>
-        <a href="https://www.anaconda.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original.svg" alt="Anaconda" height="30"/> </a>
+         <a href="https://notepad-plus-plus.org/" target="_blank" rel="noreferrer"> <img src="https://digital.com/wp-content/uploads/Notepad-200px.png?x92556" alt="NOTEPAD++" height="30"/> </a>
+        <a href="https://visualstudio.microsoft.com/xamarin/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xamarin/xamarin-original.svg" alt="Xamarin" height="30"/> </a>
+        <a href="" target="_blank" rel="noreferrer"> <img src="https://www.vhv.rs/dpng/d/79-799586_microsoft-sql-server-logo-hd-png-download.png" alt="Microsoft SQL Server" height="30"/> </a>
+        <a href="https://www.notion.so/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" alt="SOLITE" height="30"/> </a>
+        <a href="https://app.diagrams.net/" target="_blank" rel="noreferrer"> <img src="https://yt3.ggpht.com/a-/AN66SAxt-xOYAkjpVL-eCM-P3az17v7YiumZnf2rMw=s900-mo-c-c0xffffffff-rj-k-no" alt="draw.io" height="30"/> </a>
+        <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" height="30"/> </a>
+         <a href="https://www.anaconda.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original.svg" alt="Anaconda" height="30"/> </a>
         <a href="" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" alt="Slack" height="30"/> </a>
 </details>
 
