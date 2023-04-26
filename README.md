@@ -25,13 +25,15 @@
        <a href="https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" height="30"/> </a>
        <a href="https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/language-specification/introduction" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" height="30"/> </a>
  <a href="https://html.spec.whatwg.org/multipage/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" height="28"/> </a>
-       <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" height="28"/> </a>
+       <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" height="29"/> </a>
+       <a href="https://www.silverfrost.com/32/ftn95/ftn95_personal_edition.aspx" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/Fortran_logo.svg" alt="Fortran 95" height="29"/> </a>
+ 
  </details>
 
 <details>
 <summary><h2 align="left"> Frameworks </h2></summary>
        <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" height="30"/> </a>
-       <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="30" height="30"/> </a>
+       <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="30" height="28"/> </a>
        <a href="https://flask.palletsprojects.com/en/2.3.x/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" height="30"/> </a>
  </details>
 
