@@ -16,7 +16,7 @@
 </div></p><br/>
 
 <details>
-<summary><h2 align="left">✨ Languages ✨</h2></summary>
+<summary><h2 align="left"> Languages </h2></summary>
       <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/> </a>
        <a href="https://en.cppreference.com/w/c/language" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="30" height="30"/> </a>
        <a href="https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="30" height="30"/> </a>
@@ -26,7 +26,7 @@
  </details>
 
 <details>
-<summary><h2 align="left">✨ Frameworks ✨</h2></summary>
+<summary><h2 align="left"> Frameworks </h2></summary>
        <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="30" height="30"/> </a>
        <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="30" height="30"/> </a>
        <a href="https://flask.palletsprojects.com/en/2.3.x/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="30" height="30" background-color: #ffffff /> </a>
@@ -34,10 +34,10 @@
 
  
 <details>
-<summary><h2 align="left">✨ Tools & IDE's ✨</h2>
+<summary><h2 align="left"> Tools & IDE's </h2></summary>
        <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/> </a> 
        <a href="https://www.anaconda.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original.svg" alt="Anaconda" width="30" height="30"/> </a>
- </details>
+</details>
 
 
 
