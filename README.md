@@ -49,7 +49,7 @@
         <a href="" target="_blank" rel="noreferrer"> <img src="https://avatars0.githubusercontent.com/u/1284937?v=3&s=400" alt="Spider" height="30"/> </a>
          <a href="https://notepad-plus-plus.org/" target="_blank" rel="noreferrer"> <img src="https://digital.com/wp-content/uploads/Notepad-200px.png?x92556" alt="NOTEPAD++" height="30"/> </a>
         <a href="https://visualstudio.microsoft.com/xamarin/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xamarin/xamarin-original.svg" alt="Xamarin" height="30"/> </a>
-        <a href="" target="_blank" rel="noreferrer"> <img src="https://www.vhv.rs/dpng/d/79-799586_microsoft-sql-server-logo-hd-png-download.png" alt="Microsoft SQL Server" height="30"/> </a>
+        <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://img.stackshare.io/service/7096/809746be-0b96-4af0-aa2f-5d1aeaa82658.png" alt="Microsoft SQL Server" height="30"/> </a>
         <a href="https://www.sqlite.org/index.html" target="_blank" rel="noreferrer"> <img src="https://phprad.com/assets/images/sqlite.png" alt="SOLITE" height="30"/> </a>
         <a href="https://app.diagrams.net/" target="_blank" rel="noreferrer"> <img src="https://yt3.ggpht.com/a-/AN66SAxt-xOYAkjpVL-eCM-P3az17v7YiumZnf2rMw=s900-mo-c-c0xffffffff-rj-k-no" alt="draw.io" height="30"/> </a>
         <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" height="30"/> </a>
