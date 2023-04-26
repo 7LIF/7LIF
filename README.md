@@ -9,8 +9,8 @@
 
 
 <p align="left"> 
-<img src="https://komarev.com/ghpvc/?username=7LIF&label=Profile%20views&color=0e75b6&style=flat" alt="7LIF"/> 
 <a href="https://www.linkedin.com/in/mariana-alberto/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="22"/> </a>
+<img src="https://komarev.com/ghpvc/?username=7LIF&label=Profile%20views&color=0e75b6&style=flat" alt="7LIF"/> 
 </p>
 
 
@@ -34,9 +34,10 @@
 
 <details>
 <summary><h2 align="left"> Frameworks </h2></summary>
-       <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" height="32"/> </a>
+       <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" height="33"/> </a>
+        <a href="https://flask.palletsprojects.com/en/2.3.x/" target="_blank" rel="noreferrer"> <img src="https://avatars1.githubusercontent.com/u/18305767" alt="Flask" height="30"/> </a>
        <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" height="30"/> </a>
-       <a href="https://flask.palletsprojects.com/en/2.3.x/" target="_blank" rel="noreferrer"> <img src="https://avatars1.githubusercontent.com/u/18305767" alt="Flask" height="32"/> </a>
+
  </details>
 
  
