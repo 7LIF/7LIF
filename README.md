@@ -48,8 +48,8 @@
         <a href="" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" height="30"/> </a>
         <a href="" target="_blank" rel="noreferrer"> <img src="https://avatars0.githubusercontent.com/u/1284937?v=3&s=400" alt="Spider" height="30"/> </a>
          <a href="" target="_blank" rel="noreferrer"> <img src="https://digital.com/wp-content/uploads/Notepad-200px.png?x92556" alt="NOTEPAD++" height="30"/> </a>
-        <a href="" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Xamarin-3498DB?style=for-the-badge&logo=xamarin&logoColor=white" alt="Xamarin" height="30"/> </a>
-        <a href="" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="Microsoft SQL Server" height="30"/> </a>
+        <a href="" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xamarin/xamarin-original.svg" alt="Xamarin" height="30"/> </a>
+        <a href="" target="_blank" rel="noreferrer"> <img src="https://logos.fandom.com/wiki/Microsoft_SQL_Server?file=SQLServer.png" alt="Microsoft SQL Server" height="30"/> </a>
         <a href="https://www.notion.so/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SOLITE" height="30"/> </a>
          <a href="" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" height="30"/> </a>
         <a href="https://www.anaconda.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original.svg" alt="Anaconda" height="30"/> </a>
